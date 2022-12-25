@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S.K.S. Prasad</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<img align="right" alt="Coding" width="400" src="[https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg](https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachintha-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="sachintha-prasad" /> </p>
 
