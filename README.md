@@ -23,5 +23,5 @@
 
 <p style="background-color:#000;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachintha-prasad&show_icons=true&locale=en" alt="sachintha-prasad" /></p>
 
-<p style="background-color:#000;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachintha-prasad&" alt="sachintha-prasad" /></p>
+<p style="background-color:black;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachintha-prasad&" alt="sachintha-prasad" /></p>
 
