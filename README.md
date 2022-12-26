@@ -54,9 +54,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachintha-prasad&show_icons=true&locale=en&layout=compact" alt="sachintha-prasad" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachintha-prasad&show_icons=true&locale=en" alt="sachintha-prasad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachintha-prasad&" alt="sachintha-prasad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachintha-prasad&show_icons=true&locale=en&layout=compact&theme=transparent" alt="sachintha-prasad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachintha-prasad&show_icons=true&locale=en&theme=transparent" alt="sachintha-prasad" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachintha-prasad&theme=windows-dark" alt="sachintha-prasad" /></p> -->
 
