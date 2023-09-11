@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/s-k-s-prasad-58993b225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-k-s-prasad-58993b225" height="30" width="40" /></a>
 <a href="https://twitter.com/sachinthapras10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinthapras10" height="30" width="40" /></a>
-<a href="https://codepen.io/@sachintha-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sachintha-prasad" height="30" width="40" /></a>
+<a href="[https://codepen.io/@sachintha-prasad](https://codepen.io/sachintha-prasad)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sachintha-prasad" height="30" width="40" /></a>
 <!-- <a href="https://dribbble.com/sksprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sksprasad" height="30" width="40" /></a> -->
 </p>
 
