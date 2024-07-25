@@ -1,10 +1,10 @@
-![logo](https://github.com/Sachintha-Prasad/Sachintha-Prasad/blob/main/Profile%20Background.png)
+![logo](https://github.com/Sachintha-Prasad/Sachintha-Prasad/blob/main/profile%20background%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Sachintha Prasad</h1>
-<h3 align="justify">Sachintha Prasad | Full-Stack Developer & UI/UX Designer 🚀 | Undergraduate at Sabaragamuwa University 🎓 | Passionate about crafting seamless user experiences through code and design. Currently honing skills in full-stack development, blending creativity with technology to build innovative solutions. Let's connect and innovate together! 🌟 #FullStackDeveloper #UIUXDesign </h3>
+<h3 align="justify">React js Developer | Developing Dynamic Front-End & Full-Stack Application </h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-- 🌱 I’m currently learning **React**
+- 💻 I’m currently learning **Typescript & Springboot**
 
 - 📫 How to reach me **prasadsachintha1231@gmail.com**
 
