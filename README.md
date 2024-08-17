@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Sachintha Prasad</h1>
 <h3 align="justify">React js Developer | Developing Dynamic Front-End & Full-Stack Application </h3>
 
-- 💻 I’m currently learning **Typescript & Springboot**
+- 💻 I’m currently learning **Typescript & Next JS**
 
 - 📫 How to reach me **prasadsachintha1231@gmail.com**
 
