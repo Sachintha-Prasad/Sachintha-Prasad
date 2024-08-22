@@ -13,17 +13,9 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="lrft">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=react,redux,nextjs,html,css,javascript,typescript,tailwind,bootstrap,sass" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,c,firebase,mongodb,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,xd,vscode,git,github,postman" />
-    
+    <img src="https://skillicons.dev/icons?i=figma,xd,vscode,git,github,postman" /> <br>   
 </div>
-
-<br/>
-</div>
-
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachintha-prasad&show_icons=true&locale=en&layout=compact&theme=transparent" alt="sachintha-prasad" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachintha-prasad&show_icons=true&locale=en&theme=transparent" alt="sachintha-prasad" /></p>  -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachintha-prasad&theme=windows-dark" alt="sachintha-prasad" /></p> -->
 
