@@ -17,5 +17,6 @@
     <img src="https://skillicons.dev/icons?i=react,redux,nextjs,html,css,javascript,typescript,tailwind,bootstrap,sass" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,c,firebase,mongodb,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=figma,xd,vscode,git,github,postman" /> <br>   
+    <img src="https://skillicons.dev/icons?i=vercel,flutter,firebase,jest" /> <br>   
 </div>
 
